@@ -1,0 +1,14 @@
+[
+  {
+    "camera_id": "cam1",
+    "zone_name": "Front Gate",
+    "zone_perimeter_co_ordinates": [[1619,1159],[1976,1464],[2479,1029],[2020,872]],
+    "threshold_num_of_frames": 10
+  },
+  {
+    "camera_id": "cam1",
+    "zone_name": "Parking Lot",
+    "zone_perimeter_co_ordinates": [[1691,1192],[1025,1422],[2730,2048],[3075,1509]],
+    "threshold_num_of_frames": 30
+  }
+]
